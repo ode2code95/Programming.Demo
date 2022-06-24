@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Curtis.Auker.Demo/1.0.0": {
+        "dependencies": {
+          "Kantaiko.ConsoleFormatting": "0.2.1"
+        },
+        "runtime": {
+          "Curtis.Auker.Demo.dll": {}
+        }
+      },
+      "Kantaiko.ConsoleFormatting/0.2.1": {
+        "runtime": {
+          "lib/net5.0/Kantaiko.ConsoleFormatting.dll": {
+            "assemblyVersion": "0.2.1.0",
+            "fileVersion": "0.2.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Curtis.Auker.Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kantaiko.ConsoleFormatting/0.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5CR7EZrjUe2nSiiDxmFUPQum+Khpq9M4ZYLM0eMzjSSDWiyZJE7dHz+5Gc9g1SB/fysOSPg/kThxAWtgmLf4Vg==",
+      "path": "kantaiko.consoleformatting/0.2.1",
+      "hashPath": "kantaiko.consoleformatting.0.2.1.nupkg.sha512"
+    }
+  }
+}

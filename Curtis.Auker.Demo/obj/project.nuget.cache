@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VT5bPn46HnP1auao22gdpm3ByDK2UlN2JFiWPBZ6VIgigr1b6s9vV28seLXzOgDnDUhVIqY9Ce2egzxIssg22w==",
+  "success": true,
+  "projectFilePath": "C:\\SG\\Source\\Open Source Demo Projects\\Curtis.Auker\\Curtis.Auker.Demo\\Curtis.Auker.Demo\\Curtis.Auker.Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stanley.G\\.nuget\\packages\\kantaiko.consoleformatting\\0.2.1\\kantaiko.consoleformatting.0.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
